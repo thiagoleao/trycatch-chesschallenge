@@ -13,7 +13,7 @@ As output, the program should list all the unique configurations to the console 
 The Challenge
 -------------
 7×7 board with 2 Kings, 2 Queens, 2 Bishops and 1 Knight. <br/>
-Solution: 3059868 unique configurations.
+Solution: 3063828 unique configurations.
 
 How to run MAVEN tests
 --------------------
