@@ -1,0 +1,10 @@
+META-INF
+/*.classpath
+/.settings
+/*.project
+/target/classes/com/thiagoleao/chesschallenge/*.class
+*.class
+/target/surefire-reports
+/target/maven-status/maven-compiler-plugin/compile/default-compile/*.lst
+*.lst
+/target/
